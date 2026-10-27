@@ -1,0 +1,6 @@
+numpy==2.5.4
+scipy==1.18.1
+polars==2.1.0
+torch==2.14.1
+matplotlib==3.11.2
+ipykernel==7.4.0
